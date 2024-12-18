@@ -40,5 +40,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=stoplossking1&show_icons=true&locale=en&layout=compact" alt="stoplossking1" /></p>
 <h3 align="center">"Turning complex problems into innovative solutions, one line of code at a time."</h3>
 
-<p align="center">📫 Reach me at **[Jordanhodali1@gmail.com]** | 🌐 Visit my portfolio: [https://stoplossking1.github.io/react-portfolio/]</p>
+<p align="center">📫 Reach me at **Jordanhodali1@gmail.com** | 🌐 Visit my portfolio: [https://stoplossking1.github.io/react-portfolio/]</p>
 
