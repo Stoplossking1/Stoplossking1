@@ -21,7 +21,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  <img src="https://cdn.iconscout.com/icon/free/png-256/free-react-logo-icon-download-in-svg-png-gif-file-formats--company-brand-world-logos-vol-4-pack-icons-282599.png alt="cplusplus" width="40" height="40"/>
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-react-logo-icon-download-in-svg-png-gif-file-formats--company-brand-world-logos-vol-4-pack-icons-282599.png alt="react" width="40" height="40"/>
+  <img src = "https://cdn.iconscout.com/icon/free/png-256/free-flutter-logo-icon-download-in-svg-png-gif-file-formats--programming-language-coding-development-logos-icons-1720090.png?f=webp alt="flutter" width="40" height="40"/>
+  <img src= "https://e7.pngegg.com/pngimages/106/833/png-clipart-dart-logo-programming-language-computer-programming-android-text-logo.png alt="dart" width="40" height="40"/>
 </p>
 
 <h4>Frameworks and Libraries:</h4>
