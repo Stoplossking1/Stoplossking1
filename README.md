@@ -3,15 +3,15 @@
 <h1 align="center">Hi 👋, I'm Jordan Hodali!</h1>
 <h3 align="center">Bachelor of Computer Science | Loves to explore ML, android Dev, and fullstack</h3>
 
-- 🔭 I’m currently working on ** an Uber Eats Clone: Full-Stack Android App with Uber Direct API Integration**
+- 🔭 I’m currently working on **an Uber Eats Clone: Full-Stack Android App with Uber Direct API Integration**
 
 - 🌱 I’m currently diving into advanced topics like **state management in Jetpack Compose, Firebase Firestore optimization, and efficient API handling.**
 
-- 💬 Ask me about **how to design MVVM architectures, optimize API integrations, or implement Jetpack Compose in Android development. **
+- 💬 Ask me about **how to design MVVM architectures, optimize API integrations, or implement Jetpack Compose in Android development.**
 
 - 🌎 This year I'll be **contributing to open source**
 
-- ⭐️ Fun fact: ** When I'm not coding, I'm at kickboxing Practice !**
+- ⭐️ Fun fact: **When I'm not coding, I'm at kickboxing Practice !**
 
 <h3 align="left">Languages and Tools:</h3>
 <h4>Programming Languages:</h4>
@@ -21,6 +21,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-react-logo-icon-download-in-svg-png-gif-file-formats--company-brand-world-logos-vol-4-pack-icons-282599.png alt="cplusplus" width="40" height="40"/>
 </p>
 
 <h4>Frameworks and Libraries:</h4>
