@@ -3,15 +3,6 @@
 <h1 align="center">Hi 👋, I'm Jordan Hodali!</h1>
 <h3 align="center">Bachelor of Computer Science | Loves to explore ML, android Dev, and fullstack</h3>
 
-- 🔭 I’m currently working on **an Uber Eats Clone: Full-Stack Android App with Uber Direct API Integration**
-
-- 🌱 I’m currently diving into advanced topics like **state management in Jetpack Compose, Firebase Firestore optimization, and efficient API handling.**
-
-- 💬 Ask me about **how to design MVVM architectures, optimize API integrations, or implement Jetpack Compose in Android development.**
-
-- 🌎 This year I'll be **contributing to open source**
-
-- ⭐️ Fun fact: **When I'm not coding, I'm at kickboxing Practice !**
 
 <h3 align="left">Languages and Tools:</h3>
 <h4>Programming Languages:</h4>
