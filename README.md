@@ -1,7 +1,7 @@
 ![MasterHead](https://indoanalytica.com/static/images/bannerr.gif)
 
 <h1 align="center">Hi 👋, I'm Jordan Hodali!</h1>
-<h3 align="center"> SWE | Loves to explore ML, Mobile Dev</h3>
+<h3 align="center"> Aiming for the Torvalds Engineer Status </h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
